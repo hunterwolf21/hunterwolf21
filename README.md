@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm hunterwolf_21
 #### I have no idea how to use github
-![I have no idea how to use github](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I have no idea how to use github](insert banner url here)
 
 Literally have never tried coding before, like, zero experience
 
