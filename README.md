@@ -2,7 +2,7 @@
 #### I have no idea how to use github
 ![I have no idea how to use github](insert banner url here)
 
-Literally have never tried coding before, like, zero experience
+Literally have never tried coding before, like, zero experience. I can draw tho
 
 -  I’m currently working on this page. 
 
